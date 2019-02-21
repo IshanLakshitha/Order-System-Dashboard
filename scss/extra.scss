@@ -1,0 +1,16 @@
+$margin_size :  2px;
+$float_side : right;
+
+#other-Btn {
+    float: $float_side;
+    margin: $margin_size;
+}
+
+#save-Btn {
+    float: $float_side;
+    margin: $margin_size;
+} 
+
+#add-Btn {
+    margin: $margin_size;
+}
